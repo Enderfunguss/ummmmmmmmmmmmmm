@@ -1,0 +1,16 @@
+.center {
+  text-align: center;
+}
+
+.right {
+  float: right;
+}
+
+.footer {
+  background: #f5f5f5;
+  line-height: 2;
+  margin: 0px;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
